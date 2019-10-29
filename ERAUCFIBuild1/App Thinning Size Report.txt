@@ -1,0 +1,22 @@
+
+App Thinning Size Report for All Variants of ERAUCFI
+
+Variant: ERAUCFI-0C76CFD9-9145-4E23-B2F8-EC495F66A270.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 13.0], [device: iPad8,7, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad8,8, os-version: 13.0], and [device: iPad7,1, os-version: 13.0]
+App + On Demand Resources size: 10 MB compressed, 16.3 MB uncompressed
+App size: 10 MB compressed, 16.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ERAUCFI-A9D5F1A0-B4BC-4621-B78F-40E488EA6221.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,1, os-version: 13.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,4, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad6,8, os-version: 13.0], and [device: iPad7,11, os-version: 13.0]
+App + On Demand Resources size: 10 MB compressed, 16.3 MB uncompressed
+App size: 10 MB compressed, 16.3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ERAUCFI.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 10.9 MB compressed, 17.2 MB uncompressed
+App size: 10.9 MB compressed, 17.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
